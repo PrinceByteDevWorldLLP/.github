@@ -7,10 +7,8 @@
 </div>
 
 ###
-
-  <h1>PrinceByte DevWorld LLP</h1>
-    <h2>Your Trusted Partner for Digital Success</h2>
-  </header>
+    
+<h2>Your Trusted Partner for Digital Success</h2>
   <p>PrinceByte DevWorld LLP is a leading provider of comprehensive IT, software development, and web hosting services. We are dedicated to helping businesses of all sizes achieve their digital goals by delivering tailored solutions that drive growth and efficiency.</p>
   <p><strong>Our Core Offerings</strong></p>
   <p>• <strong>Custom Software Development</strong>: We create bespoke software applications that perfectly align with your unique requirements and business objectives.</p>
