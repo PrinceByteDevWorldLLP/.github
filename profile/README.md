@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.ibb.co/j3jDVhP/1.png"  />
+  <img height="200" src="https://clients.princebyte.com/templates/lagom2/assets/img/logo/logo_big.2111493427.svg"  />
 </div>
 
 ###
